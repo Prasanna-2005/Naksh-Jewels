@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Diamond Solitaire Necklace",
+    "price": 1299.99,
+    "category": "Necklaces",
+    "subcategory": "Diamond Necklaces",
+    "image": "/products/images/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Gold Pearl Bracelet",
+    "price": 599.99,
+    "category": "Bracelets",
+    "subcategory": "Pearl Bracelets",
+    "image": "/products/images/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Platinum Wedding Band",
+    "price": 899.99,
+    "category": "Rings",
+    "subcategory": "Wedding Bands",
+    "image": "/products/images/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ruby Stud Earrings",
+    "price": 399.99,
+    "category": "Earrings",
+    "subcategory": "Studs",
+    "image": "/products/images/4.jpg"
+  },
+  {
+    "id": "1750424493175",
+    "name": "GOLD-EARRING",
+    "price": "100000",
+    "category": "Earrings",
+    "subcategory": "Drop Earrings",
+    "image": "/products/images/1750424493174-ring.jpg"
+  },
+  {
+    "id": "1750441304243",
+    "name": "Malabar Ring",
+    "price": "20000",
+    "category": " RIngs",
+    "subcategory": "Signet Rings",
+    "image": "/products/images/1750441304242-signet.jpg"
+  },
+  {
+    "id": "1750441369160",
+    "name": "Trendy Earring",
+    "price": "12540",
+    "category": "Earrings",
+    "subcategory": "Stud Rings",
+    "image": "/products/images/1750441369160-ring.jpg"
+  },
+  {
+    "id": "1750441404138",
+    "name": "Pearl Beauty",
+    "price": "20000",
+    "category": "Necklace",
+    "subcategory": "Perl Necklace",
+    "image": "/products/images/1750441404138-perl.jpg"
+  },
+  {
+    "id": "1750441455817",
+    "name": "Golden Bangles",
+    "price": "49000",
+    "category": "Bracelets",
+    "subcategory": "Bangle",
+    "image": "/products/images/1750441455817-bangle.jpeg"
+  },
+  {
+    "id": "1750441515660",
+    "name": "Golden Vibe",
+    "price": "90000",
+    "category": "Bracelets",
+    "subcategory": "Charm Bracelets",
+    "image": "/products/images/1750441515659-brace.jpg"
+  },
+  {
+    "id": "1750441560298",
+    "name": "Diamond Bracelet",
+    "price": "1200000",
+    "category": "Bracelets",
+    "subcategory": "Cuff Bracelts",
+    "image": "/products/images/1750441560298-dia.jpg"
+  }
+]
