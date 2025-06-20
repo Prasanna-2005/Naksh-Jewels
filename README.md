@@ -22,9 +22,10 @@ This is a **jewelry website homepage** made using **Next.js**, **Tailwind-Materi
 | Data Format  | JSON (stored locally inside `/public/products/products.json`) |
 | File Upload  | Manual buffer parsing for image + data (no Formidable, pure logic) |
 
----
+
 
 ## 📁 Folder Structure (Simplified)
+~~~
 /public
 /products
 /images <-- Uploaded product images
@@ -47,11 +48,12 @@ Naksh-Jewels/
 /add <-- Shows AddProductForm
 /delete <-- Shows DeleteProductForm
 /api/products <-- GET / POST / DELETE API
+~~~
 
 
-
-
+---
 DONT CHANGE ANY DIRECTORY OR MOVE THE FILES 
+---
 DON'T WORRY ABOUT RED LINES (DUE TO TYPESCRIPT):IT's NOT AN ERROR
 
 
@@ -67,29 +69,37 @@ cd Naksh-Jewels
 
 npm install
 npm run dev
+```
 
-
+```
 IN CASE OF VULNERABIILTIES:
 npm audit fix --force
 npm run dev
+```
 
-
+```
 Then go to:
 http://localhost:3000
 
 FIRST LOAD i.e) FIRST REQUEST TAKES 10-15s for server to start
 BE PATIENT
-
+```
+---
 
 You can:
-LOOK MY CUSTOMIZED HOMEPAGE 
-I MADE MULTIPLE SECTIONS
-CREATED 3 API's.
-➕ Click add to post a product with image
-🗑️ Click delete to remove a product
-🎞️ Watch animated image displays
+>LOOK MY CUSTOMIZED HOMEPAGE 
+>I MADE MULTIPLE SECTIONS
+>CREATED 3 API's.
+>➕ Click add to post a product with image
+>🗑️ Click delete to remove a product
+>🎞️ Watch animated image displays
+---
 
-(
-IN THIS WEB< I DIDN'T IMPLEMENT SEARCH AND GET A ITEM/ FILTER
-I DIDN't IMPLEMENET SINGLE PRODUCT DESCRIPTION
-)
+
+---
+
+
+>IN THIS WEB< I DIDN'T IMPLEMENT SEARCH AND GET A ITEM/ FILTER
+>I DIDN't IMPLEMENET SINGLE PRODUCT DESCRIPTION
+
+---
