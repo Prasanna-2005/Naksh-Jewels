@@ -81,7 +81,7 @@ npm run dev
 Then go to:
 http://localhost:3000
 
-FIRST LOAD i.e) FIRST REQUEST TAKES 10-15s for server to start
+FIRST LOAD i.e) FIRST REQUEST TAKES 10-30s for server to start
 BE PATIENT
 ```
 ---
